@@ -2,6 +2,19 @@
 
 This adapter allows you to program the 27C322, 27C160, 27C800, and 27C400 chips on your MiniPro TL866 programmer. The 27C322/160/800 EPROMs are 42 pins wide, but the TL866 and TL866II programmer only has a 40-pin socket. If you choose the 27C4096 EPROM (4 Mbit) on the IC selection list, you can then use the on-board switches to manually switch upper address pins A18 to A20. This allows you to fill up a larger chip (27C322 has a storage space of 32 Mbit) in 4 Mbit chunks.
 
+# Bill of Materials
+
+Resistor wattage can be 1/10 W or larger.
+
+| Reference Designator  | Part Number/Value | Footprint  |
+| ------------- | ------------- | ------------- |
+| R18  | 10 kΩ | 0805  |
+| R19  | 10 kΩ | 0805  |
+| R20  | 10 kΩ | 0805  |
+| RE  | 10 kΩ | 0805  |
+| RB  | 330 Ω | 0805  |
+| Q1  | 2N3906 | SOT-23  |
+
 # How to Use the Adapter
 
 Load up the 27C4096 chip on the TL866 software, and load up the first chunk from your original file. Change the VPP to 12.5 V, as this is dictated for programming voltage in the datasheet. Then, uncheck the “Check ID” option. Note that if you have the new TL866II and are using “Xgpro” software, you need to uncheck “Pin Detect” as well. Your window should look like this:
