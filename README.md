@@ -53,3 +53,9 @@ With this extra circuitry, we can make a standalone 27C322 adapter for the TL866
 ![image](https://user-images.githubusercontent.com/97127539/171531314-acfc17d9-4123-4cc0-bd51-bf41120d1605.png)
 
 So with the extra circuitry, we now have our finished product, capable of allowing the TL866 to program 27C322s, 160s, 800s, and 400s.
+
+# License
+
+Licensed under the TAPR Open Hardware License (www.tapr.org/OHL)
+
+©MouseBiteLabs 2022
