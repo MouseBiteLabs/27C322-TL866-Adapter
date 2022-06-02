@@ -17,7 +17,7 @@ Resistor wattage can be 1/10 W or larger.
 | xx  | <a href="https://www.digikey.com/short/tp5cw74d">DIP Switch x3, SPST</a> | --  |
 | xx  | <a href="https://www.digikey.com/short/2q237b7r">Slide Switch, DPDT</a> | --  |
 | xx  | <a href="https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=dip+42+socket&_sacat=0">Wide 42-pin DIP Socket</a> | DIP-42  |
-| xx  | <a href="https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=40-pin+male+header+0.1%22&_sacat=0&LH_TitleDesc=0&_odkw=0.1%22+header+pins&_osacat=0">Male Header Pins</a> | 2x 18-pin  |
+| xx  | <a href="https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=40-pin+male+header+0.1%22&_sacat=0&LH_TitleDesc=0&_odkw=0.1%22+header+pins&_osacat=0">Male Header Pins</a> | 2x rows of 18-pin  |
 
 # How to Use the Adapter
 
