@@ -14,6 +14,9 @@ Resistor wattage can be 1/10 W or larger.
 | RE  | 10 kΩ | 0805  |
 | RB  | 330 Ω | 0805  |
 | Q1  | 2N3906 | SOT-23  |
+| xx  | <a href="https://www.digikey.com/short/tp5cw74d">DIP Switch x3, SPST</a> | --  |
+| xx  | <a href="https://www.digikey.com/short/2q237b7r">Switch Slide, DPDT</a> | --  |
+| xx  | <a href="https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2380057.m570.l1313&_nkw=dip+42+socket&_sacat=0">Wide 42-pin DIP Socket</a> | DIP-42  |
 
 # How to Use the Adapter
 
