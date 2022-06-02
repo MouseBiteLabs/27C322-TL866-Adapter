@@ -4,7 +4,7 @@ This adapter allows you to program the 27C322, 27C160, 27C800, and 27C400 chips 
 
 # How to Use the Adapter
 
-Load up the 27C4096 chip on the TL866 software, and load up the first chunk from your original ROM. Change the VPP to 12.5 V, as this is dictated for programming voltage in the datasheet. Then, uncheck the “Check ID” option. Note that if you have the new TL866II and are using “Xgpro” software, you need to uncheck “Pin Detect” as well. Your window should look like this:
+Load up the 27C4096 chip on the TL866 software, and load up the first chunk from your original file. Change the VPP to 12.5 V, as this is dictated for programming voltage in the datasheet. Then, uncheck the “Check ID” option. Note that if you have the new TL866II and are using “Xgpro” software, you need to uncheck “Pin Detect” as well. Your window should look like this:
 
 ![image](https://user-images.githubusercontent.com/97127539/171530181-9ed9c06a-898f-4c30-b795-139b50d8d6e7.png)
 
