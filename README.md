@@ -1,4 +1,4 @@
-# 27C322/160/800/400 Programming Adapter for the TL866
+# 27C322/160/800/400 Programming Adapter for the TL866 and T48
 
 This adapter allows you to program the 27C322, 27C160, 27C800, and 27C400 chips on your MiniPro TL866 programmer. The 27C322/160/800 EPROMs are 42 pins wide, but the TL866 and TL866II programmer only has a 40-pin socket. If you choose the 27C4096 EPROM (4 Mbit) on the IC selection list, you can then use the on-board switches to manually switch upper address pins A18 to A20. This allows you to fill up a larger chip (27C322 has a storage space of 32 Mbit) in 4 Mbit chunks.
 
